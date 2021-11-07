@@ -1,0 +1,8 @@
+.GenericButtonWrapper {
+  padding: 8px;
+  margin: 5px 0px;
+  border-radius: 5px;
+  outline: none;
+  min-width: 100px;
+  height: 25px;
+}

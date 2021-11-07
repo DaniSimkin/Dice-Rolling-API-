@@ -1,0 +1,13 @@
+.loginScreenContainer {
+  text-align: center;
+  border: 1px solid black;
+  width: 75%;
+  height: 75%;
+}
+
+.loginScreenForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
